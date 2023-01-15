@@ -1,4 +1,4 @@
-This is personal website of Sandeep.
+This is personal website of Sandeep: <a href="https://pal-sandeep.github.io/">https://pal-sandeep.github.io</a>
 
 Credits:
 
